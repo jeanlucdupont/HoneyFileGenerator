@@ -17,3 +17,7 @@ There is still a LOT of work to make the generated data believable.<br>
 The "Juicy" file generator was created without AI.<br>
 
 <img width="657" height="377" alt="image" src="https://github.com/user-attachments/assets/bac21e61-d869-433b-9e8a-7ddd29278218" />
+
+
+<img width="823" height="572" alt="image" src="https://github.com/user-attachments/assets/e567ac96-e6ce-491d-b50e-b69da38619a3" />
+
