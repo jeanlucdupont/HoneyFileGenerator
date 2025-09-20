@@ -1,4 +1,4 @@
-# HoneyFileGenerator (AI powered)
+# HoneyFileGenerator (AI powered) (PoC)
 This project generates honeyfiles (Decoy documents designed to detect intruders when accessed). These documents are automatically created to look enticing and believable, making them useful for deception-based security monitoring.
 
 The generator leverages an AI model to create realistic filenames and document bodies, mixing ordinary-looking files with special JUICY files (containing fake sensitive data such as credentials, API keys, or payroll passwords). The goal is to create a set of files that attackers may target, which can then be monitored for unauthorized access.
