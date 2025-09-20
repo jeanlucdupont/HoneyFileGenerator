@@ -12,7 +12,7 @@ The generator leverages an AI model to create realistic filenames and document b
 - 🔐 Fake passwords: Uses secure random password generation for authenticity.
 
 # Results
-Rather disapointing.<br>
+Rather **disapointing**.<br>
 There is still a LOT of work to make the generated data believable.<br>
 The "Juicy" file generator was created without AI.<br>
 
@@ -29,5 +29,12 @@ The "Juicy" file generator was created without AI.<br>
 # How-to
 
 1. Get LLAMA.CPP: https://github.com/ggml-org/llama.cpp/releases/
-
+2. Get LLAMA chhat GGUF: https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF/blob/main/llama-2-7b-chat.Q5_K_S.gguf
+3. Run llama server
+```
+llama-server.exe -m ..\llama-2-7b-chat.Q5_K_S.gguf --host 127.0.0.1 --port 8080 --ctx-size 4096
+```
+4. Run python script
+5. What your PC suffer at 100% CPU/GPU/RAM for a long time
+6. See results in */decoy*
 
