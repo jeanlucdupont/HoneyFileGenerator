@@ -12,7 +12,7 @@ The generator leverages an AI model to create realistic filenames and document b
 - 🔐 Fake passwords: Uses secure random password generation for authenticity.
 
 # Results
-Rather disapointing.
-There is still a LOT of work to make the generated data believable.
-The "Juicy" file generator was created without AI.
+Rather disapointing.<br>
+There is still a LOT of work to make the generated data believable.<br>
+The "Juicy" file generator was created without AI.<br>
 
