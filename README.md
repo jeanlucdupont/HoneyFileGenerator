@@ -3,6 +3,9 @@ This project generates honeyfiles (Decoy documents designed to detect intruders 
 
 The generator leverages an AI model to create realistic filenames and document bodies, mixing ordinary-looking files with special JUICY files (containing fake sensitive data such as credentials, API keys, or payroll passwords). The goal is to create a set of files that attackers may target, which can then be monitored for unauthorized access.
 
+<img width="247" height="222" alt="image" src="https://github.com/user-attachments/assets/4c8afa25-a46b-475d-af69-534fdc735399" />
+
+
 # Features
 - 🔍 Directory scanning: Extracts topics and keywords from existing files in your Documents folder.
 - 📝 AI-powered text generation: Creates technical, how-to style document bodies.
