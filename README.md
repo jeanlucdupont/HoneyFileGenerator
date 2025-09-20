@@ -16,14 +16,14 @@ Rather **disapointing**.<br>
 There is still a LOT of work to make the generated data believable.<br>
 The "Juicy" file generator was created without AI.<br>
 
-<img width="328" height="189" alt="image" src="https://github.com/user-attachments/assets/bac21e61-d869-433b-9e8a-7ddd29278218" />
+<img width="656" height="378" alt="image" src="https://github.com/user-attachments/assets/bac21e61-d869-433b-9e8a-7ddd29278218" />
 
 <hr>
-<img width="411" height="286" alt="image" src="https://github.com/user-attachments/assets/e567ac96-e6ce-491d-b50e-b69da38619a3" />
+<img width="616" height="429" alt="image" src="https://github.com/user-attachments/assets/e567ac96-e6ce-491d-b50e-b69da38619a3" />
 
 <hr>
 
-<img width="407" height="221" alt="image" src="https://github.com/user-attachments/assets/89eb4ab4-bd9d-434e-9043-e91bc2e1f047" />
+<img width="610" height="331" alt="image" src="https://github.com/user-attachments/assets/89eb4ab4-bd9d-434e-9043-e91bc2e1f047" />
 
 
 # How-to
