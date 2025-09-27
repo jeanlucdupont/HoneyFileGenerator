@@ -46,7 +46,7 @@ llama-server.exe -m ..\llama-2-7b-chat.Q5_K_S.gguf --host 127.0.0.1 --port 8080 
 
 ## Markov variant ##
 This is even worse. There's no way any human would consider this as a human input. Maybe some better programming or model would help.
-<img width="465" height="377" alt="image" src="https://github.com/user-attachments/assets/72f312e6-ec78-4e07-a479-0280a2471c39" />
+<img width="232" height="164" alt="image" src="https://github.com/user-attachments/assets/72f312e6-ec78-4e07-a479-0280a2471c39" />
 <hr>
 Silverlining. 
 1. It is extremely fast.
