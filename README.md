@@ -46,11 +46,14 @@ llama-server.exe -m ..\llama-2-7b-chat.Q5_K_S.gguf --host 127.0.0.1 --port 8080 
 
 ## Markov variant ##
 This is even worse. There's no way any human would consider this as a human input. Maybe some better programming or model would help.
+Also, if you could tell AI to change PII with ficticious information, you can't do that with Markov's.
 <img width="232" height="164" alt="image" src="https://github.com/user-attachments/assets/72f312e6-ec78-4e07-a479-0280a2471c39" />
 <hr>
 Silverlining. 
+
 1. It is extremely fast.
 2. It could be used for file name generation but not for content generation.
+
 
 <hr>
 <img width="585" height="335" alt="image" src="https://github.com/user-attachments/assets/a4dcc326-f825-419e-9d87-cbafd9a2bccb" />
