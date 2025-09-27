@@ -57,7 +57,8 @@ Silverlining.
 
 
 <hr>
-<img width="585" height="335" alt="image" src="https://github.com/user-attachments/assets/a4dcc326-f825-419e-9d87-cbafd9a2bccb" />
+<img width="593" height="347" alt="image" src="https://github.com/user-attachments/assets/4d07e8dd-0c60-4586-b457-fc113b86e2d1" />
+
 <hr>
 <img width="615" height="369" alt="image" src="https://github.com/user-attachments/assets/244411f5-fda4-4592-a4f6-70d8d22aa95e" />
 <hr>
